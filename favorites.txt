@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+
 Apple
 Pizza
 Steak
-=======
+
 Seven Sunday
 Sonic
 Black Clover
->>>>>>> 453e224 (Add favorite movies)
